@@ -4,7 +4,7 @@ import os
 from azure.identity import DefaultAzureCredential
 from azure.mgmt.cognitiveservices import CognitiveServicesManagementClient
 import re
-#from azure.mgmt.cognitiveservices.operations  import AccountsOperations
+
 
 
 
