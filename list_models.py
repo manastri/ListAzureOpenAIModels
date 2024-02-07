@@ -1,3 +1,4 @@
+# Author: manas.tri@gmail.com
 import os
 from azure.identity import DefaultAzureCredential
 from azure.mgmt.cognitiveservices import CognitiveServicesManagementClient
